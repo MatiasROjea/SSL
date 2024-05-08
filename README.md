@@ -1,2 +1,2 @@
 # SSL
-TP 0
+Matías Ojea, TP 0, Sintaxis y Semántica de los Lenguajes
