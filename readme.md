@@ -1,2 +1,2 @@
 # SSL
-Matías Ojea, TP 0, Sintaxis y Semántica de los Lenguajes
+Matías Ojea, Trabajo Práctico 0, Sintaxis y Semántica de los Lenguajes
