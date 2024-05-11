@@ -1,2 +1,2 @@
 # SSL
-Matías Ojea | Sintaxis y Semántica de los Lenguajes
+Matías Ojea | MatiasROjea | Sintaxis y Semántica de los Lenguajes
